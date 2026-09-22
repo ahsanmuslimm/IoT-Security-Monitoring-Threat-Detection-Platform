@@ -836,9 +836,9 @@ Distributed under the **Apache License 2.0**. See `LICENSE` for the full text.
 *In the age of AI, the question is not whether your network will be targeted — it is whether you will see it coming.*
 
 PROJECT MEMBERS:
-MUHAMMAD AHSAN
-RIZWAN ALEEM TAHHA 
-SAIM ASAD
+MUHAMMAD AHSAN,
+RIZWAN ALEEM TAHHA, 
+SAIM ASAD,
 MOIZ AHMED
 
 </div>
